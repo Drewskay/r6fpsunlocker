@@ -3,7 +3,6 @@
 2. Extract ``r6fpsunlocker.zip`` Into A Folder
 3. Run ``r6fpsunlocker.exe`` Before You Start FiveM
 4. FPS Will Be Unlocked To Infinite, It Will Also Apply The Best Rainbow Six Siege Settings For FPS!
-5. Virus Total (Check What Anti-Viruses Mark It) [VT](https://www.virustotal.com/gui/file/7d04a202099bc2762918a7621611f7b995b5d6479baf716cf93d2117d8110463/detection)
 
 # FAQ
   1. **r6fpsunlocker.zip Is Being Detected As A Virus/Malware. What Do I Do?**
